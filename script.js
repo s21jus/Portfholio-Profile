@@ -63,7 +63,7 @@ const projects = [
         description: "বাস/ট্রেন টিকিট খোঁজার একটি রেসপনসিভ ডেমো সাইট।",
         image: "project1.jpg",
         live_link: "https://s21jus.github.io/-Dhaka-Ticket-Finder/",
-        github_link: "https://s21jus.github.com/s21jus/Dhaka-Ticket-Finder"
+        github_link: "https://github.com/s21jus/-Dhaka-Ticket-Finder"
     },
     {
         title: "Diploma-in-Engineering-CGPA-Calculator",
@@ -135,4 +135,5 @@ document.addEventListener('DOMContentLoaded', () => {
     if (typeof AOS !== 'undefined') AOS.init({ duration: 800, once: true, offset: 100 });
     animateSkills();
 });
+
 
